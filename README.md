@@ -32,7 +32,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/kursadca/AllHackingTools.git
+git clone [https://github.com/kursadca/AllHackingTools.git]
 Navigate to the directory:
 
 Bash
